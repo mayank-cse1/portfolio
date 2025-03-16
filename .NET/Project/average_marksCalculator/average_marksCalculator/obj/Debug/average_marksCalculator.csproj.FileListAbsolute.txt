@@ -1,0 +1,11 @@
+C:\Users\mayan\source\repos\average_marksCalculator\average_marksCalculator\bin\Debug\average_marksCalculator.exe.config
+C:\Users\mayan\source\repos\average_marksCalculator\average_marksCalculator\bin\Debug\average_marksCalculator.exe
+C:\Users\mayan\source\repos\average_marksCalculator\average_marksCalculator\bin\Debug\average_marksCalculator.pdb
+C:\Users\mayan\source\repos\average_marksCalculator\average_marksCalculator\obj\Debug\average_marksCalculator.csproj.AssemblyReference.cache
+C:\Users\mayan\source\repos\average_marksCalculator\average_marksCalculator\obj\Debug\average_marksCalculator.csproj.SuggestedBindingRedirects.cache
+C:\Users\mayan\source\repos\average_marksCalculator\average_marksCalculator\obj\Debug\average_marksCalculator.Form1.resources
+C:\Users\mayan\source\repos\average_marksCalculator\average_marksCalculator\obj\Debug\average_marksCalculator.Properties.Resources.resources
+C:\Users\mayan\source\repos\average_marksCalculator\average_marksCalculator\obj\Debug\average_marksCalculator.csproj.GenerateResource.cache
+C:\Users\mayan\source\repos\average_marksCalculator\average_marksCalculator\obj\Debug\average_marksCalculator.csproj.CoreCompileInputs.cache
+C:\Users\mayan\source\repos\average_marksCalculator\average_marksCalculator\obj\Debug\average_marksCalculator.exe
+C:\Users\mayan\source\repos\average_marksCalculator\average_marksCalculator\obj\Debug\average_marksCalculator.pdb
