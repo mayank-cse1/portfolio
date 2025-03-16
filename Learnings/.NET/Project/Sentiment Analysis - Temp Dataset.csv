@@ -1,0 +1,22 @@
+Sentiment Text,Sentment
+I am good,positive
+I am fine,positive
+I am too well,positive
+I am too good,positive
+I am too fine,positive
+good,positive
+great,positive
+awesome,positive
+I am not good,negative
+I am not fine,negative
+I am not will,negative
+bad,negative
+sad,negative
+not good,negative
+irritated,negative
+don't know,neutral
+can't say,neutral
+not sure,neutral
+thank you,neutral
+doing great,positive
+doing well,positive
